@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+		<key>baseUrl</key>
+		<string>http://apilayer.net/api</string>
+		<key>AccessKey</key>
+		<string>13ab4e39a159ee952143d07c206d43f7</string>
+		<key>SourceCurrency</key>
+		<string>JPY</string>
+		<key>RefreshRateSec</key>
+		<string>1800</string>
+</dict>
+</plist>

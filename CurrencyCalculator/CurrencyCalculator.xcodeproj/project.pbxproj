@@ -15,6 +15,7 @@
 		C9DA894A228D091E00BC19EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9DA8948228D091E00BC19EE /* LaunchScreen.storyboard */; };
 		C9DA8955228D091E00BC19EE /* CurrencyCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9DA8954228D091E00BC19EE /* CurrencyCalculatorTests.swift */; };
 		C9DA8960228D091E00BC19EE /* CurrencyCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9DA895F228D091E00BC19EE /* CurrencyCalculatorUITests.swift */; };
+		C9DA896E228D119400BC19EE /* ApiConfig.plist in Resources */ = {isa = PBXBuildFile; fileRef = C9DA896D228D119400BC19EE /* ApiConfig.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C9DA895B228D091E00BC19EE /* CurrencyCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CurrencyCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9DA895F228D091E00BC19EE /* CurrencyCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyCalculatorUITests.swift; sourceTree = "<group>"; };
 		C9DA8961228D091E00BC19EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C9DA896D228D119400BC19EE /* ApiConfig.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ApiConfig.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				C9DA8948228D091E00BC19EE /* LaunchScreen.storyboard */,
 				C9DA894B228D091E00BC19EE /* Info.plist */,
 				C9DA8943228D091D00BC19EE /* CurrencyCalculator.xcdatamodeld */,
+				C9DA896D228D119400BC19EE /* ApiConfig.plist */,
 			);
 			path = CurrencyCalculator;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C9DA894A228D091E00BC19EE /* LaunchScreen.storyboard in Resources */,
+				C9DA896E228D119400BC19EE /* ApiConfig.plist in Resources */,
 				C9DA8947228D091E00BC19EE /* Assets.xcassets in Resources */,
 				C9DA8942228D091D00BC19EE /* Main.storyboard in Resources */,
 			);
